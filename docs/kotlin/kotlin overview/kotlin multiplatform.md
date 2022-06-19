@@ -1,17 +1,18 @@
 ---
 layout: default
-title: Page Format
-description: initial page format
+title: Kotlin Multiplatform
+description: Kotlin Multiplatform
 # permalink: /
 
-# parent: Parent's name
+parent: Kotlin overview
+grand_parent: Kotlin 1.7.0
 nav_order: 1
 
 # has_children: true
 # has_toc: true
 ---
 
-# PAGE TITLE
+# Kotlin Multiplatform
 {: .no_toc }
 
 ## Table of contents

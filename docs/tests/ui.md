@@ -6,7 +6,7 @@ description: UI test page, included in .gitignore
 # parent: Parent's name
 nav_order: 999999998
 
-# has_chidren: true
+# has_children: true
 # has_toc: true
 ---
 
